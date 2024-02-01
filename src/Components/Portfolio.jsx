@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mlsa-img.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "coding monitors";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Web dev for beginners using AI",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a beginner friendly series on medium",
+    url: "https://medium.com/@r.tarunnayaka25042005"
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather dashbord",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Using weather api",
+    url: "https://github.com/TARUN-NAYAKA",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://tarun-nayaka-r-1.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "C++ for beginers",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Video interview to explain basics of C++",
+    url: "https://www.youtube.com/channel/UCgV4zCTw5MvtrmfTuo24PKQ",
   },
 ];
 
